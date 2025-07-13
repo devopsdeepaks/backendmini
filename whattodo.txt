@@ -1,0 +1,7 @@
+an app in which users can write posts
+
+//Create users
+//login and regsiter, logout
+//post creation
+//post like
+//post delete
